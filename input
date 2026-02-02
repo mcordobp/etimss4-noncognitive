@@ -1,5 +1,7 @@
 - Hello!
 - The eTIMSS 2019 SPSS data can be downloaded from the TIMSS 2019 International Database portal: https://timss2019.org/international-database/
 - Go to International Database --> SPSS Data --> "TIMSS 2019 SPSS Data - Grade 4 (781 MB)"
+- You will have this folder: T19_G4_SPSS Data
+- To access to eTIMS 4, please go to "T19_G4_SPSS Data/eTPSI" That is the "dir_sav" argument of the function "timss_one_country_4"
 - the zipped Grade 4 eTIMSS package is large (163,995 KB), so it is not possible to load here. 
 - I apologize
